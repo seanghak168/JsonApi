@@ -1,6 +1,6 @@
 [
   {
-    "id": 7,
+    "id": 1,
     "category_id": 6,
     "name": "AngKor Wat",
     "slug": "angkor-wat",
@@ -12,10 +12,10 @@
     "created_by": 1,
     "created_at": "2023-07-17 15:04:07",
     "updated_at": "2023-07-17 15:04:07",
-    "image": "1689606247.jpg"
+    "image": "https://cdn.discordapp.com/attachments/1134052885366312964/1136136249674043492/1.jpg"
   },
   {
-    "id": 10,
+    "id": 2,
     "category_id": 6,
     "name": "AngKor Thom",
     "slug": "angkorthom",
@@ -27,10 +27,10 @@
     "created_by": 1,
     "created_at": "2023-07-18 03:58:44",
     "updated_at": "2023-07-19 04:23:06",
-    "image": "1689740586.jpg"
+    "image": "https://cdn.discordapp.com/attachments/1134052885366312964/1136136249904738437/2.jpg"
   },
   {
-    "id": 14,
+    "id": 3,
     "category_id": 8,
     "name": "Royal palace",
     "slug": "royal-palace",
@@ -42,10 +42,10 @@
     "created_by": 1,
     "created_at": "2023-07-18 04:04:14",
     "updated_at": "2023-07-19 04:35:27",
-    "image": "1689653054.jpg"
+    "image": "https://cdn.discordapp.com/attachments/1134052885366312964/1136136250563244062/4.jpg"
   },
   {
-    "id": 15,
+    "id": 4,
     "category_id": 6,
     "name": "Tuol Sleng Genocide",
     "slug": "tuol-sleng-genocide",
@@ -57,25 +57,10 @@
     "created_by": 1,
     "created_at": "2023-07-19 04:25:25",
     "updated_at": "2023-07-19 04:25:25",
-    "image": "1689740725.jpg"
+    "image": "https://cdn.discordapp.com/attachments/1134052885366312964/1136136250227691650/3.jpg"
   },
   {
-    "id": 16,
-    "category_id": 6,
-    "name": "Royal palace",
-    "slug": "royal-palace",
-    "description": "royal palace",
-    "meta_title": "royal palace",
-    "meta_description": "royal palace",
-    "meta_keywords": "royal palace",
-    "status": 1,
-    "created_by": 1,
-    "created_at": "2023-07-19 04:27:54",
-    "updated_at": "2023-07-19 04:30:25",
-    "image": "1689741025.jpg"
-  },
-  {
-    "id": 17,
+    "id": 6,
     "category_id": 6,
     "name": "Sihanoukville",
     "slug": "sihanoukville",
@@ -87,6 +72,6 @@
     "created_by": 1,
     "created_at": "2023-07-19 04:34:01",
     "updated_at": "2023-07-19 04:34:01",
-    "image": "1689741241.png"
+    "image": "https://cdn.discordapp.com/attachments/1134052885366312964/1136136250873610240/5.png"
   }
 ]
