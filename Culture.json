@@ -12,7 +12,7 @@
     "created_by": 1,
     "created_at": "2023-08-02 14:13:36",
     "updated_at": "2023-08-02 14:13:36",
-    "image": "1690985616.jpg"
+    "image": "https://cdn.discordapp.com/attachments/1134052885366312964/1136306666716016860/1.jpg"
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
     "created_by": 1,
     "created_at": "2023-08-02 14:17:51",
     "updated_at": "2023-08-02 14:17:51",
-    "image": "1690985871.jpg"
+    "image": "https://cdn.discordapp.com/attachments/1134052885366312964/1136306666976055337/2.jpg"
   },
   {
     "id": 3,
@@ -42,7 +42,7 @@
     "created_by": 1,
     "created_at": "2023-08-02 14:20:40",
     "updated_at": "2023-08-02 14:24:32",
-    "image": "1690986272.jpg"
+    "image": "https://cdn.discordapp.com/attachments/1134052885366312964/1136306667223531530/3.jpg"
   },
   {
     "id": 4,
@@ -57,7 +57,7 @@
     "created_by": 1,
     "created_at": "2023-08-02 14:22:29",
     "updated_at": "2023-08-02 14:23:28",
-    "image": "1690986208.jpg"
+    "image": "https://cdn.discordapp.com/attachments/1134052885366312964/1136306667533906001/4.jpg"
   },
   {
     "id": 5,
@@ -72,7 +72,7 @@
     "created_by": 1,
     "created_at": "2023-08-02 14:28:11",
     "updated_at": "2023-08-02 14:28:11",
-    "image": "1690986491.jpeg"
+    "image": "https://cdn.discordapp.com/attachments/1134052885366312964/1136306667756195960/5.jpeg"
   },
   {
     "id": 6,
@@ -87,7 +87,7 @@
     "created_by": 1,
     "created_at": "2023-08-02 14:31:09",
     "updated_at": "2023-08-02 14:31:57",
-    "image": "1690986717.jpg"
+    "image": "https://cdn.discordapp.com/attachments/1134052885366312964/1136306667756195960/5.jpeg"
   },
   {
     "id": 7,
@@ -102,6 +102,6 @@
     "created_by": 1,
     "created_at": "2023-08-02 14:33:08",
     "updated_at": "2023-08-02 14:33:08",
-    "image": "1690986788.jpg"
+    "image": "https://cdn.discordapp.com/attachments/1134052885366312964/1136306668225966170/6.jpg"
   }
 ]
