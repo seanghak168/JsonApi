@@ -13,80 +13,20 @@
     "created_at": "2023-07-18 03:54:10",
     "updated_at": "2023-07-19 04:38:25",
     "image": "https://cdn.discordapp.com/attachments/1134052885366312964/1136147523824799764/4.jpg"
-  },
-  {
-    "id": 25,
-    "category_id": 1,
-    "name": "Cambodia Landmine Museum",
-    "slug": "cambodia-landmine-museum",
-    "description": "Cambodia Landmine Museum",
-    "meta_title": "Cambodia Landmine Museum",
-    "meta_description": "Cambodia Landmine Museum",
-    "meta_keywords": "Cambodia Landmine Museum",
-    "status": 1,
-    "created_by": 1,
-    "created_at": "2023-08-09 14:13:15",
-    "updated_at": "2023-08-09 14:13:15",
-    "image": "https://cdn.discordapp.com/attachments/1134052885366312964/1138842047772627115/photo1jpg.jpg"
-  },
-  {
-    "id": 26,
-    "category_id": 1,
-    "name": "Angkor National Museum",
-    "slug": "angkor-national-museum",
-    "description": "Angkor National Museum",
-    "meta_title": "Angkor National Museum",
-    "meta_description": "Angkor National Museum",
-    "meta_keywords": "Angkor National Museum",
-    "status": 1,
-    "created_by": 1,
-    "created_at": "2023-08-09 14:14:27",
-    "updated_at": "2023-08-09 14:14:27",
-    "image": "https://cdn.discordapp.com/attachments/1134052885366312964/1138842048049459300/the-exterior-of-the-museum.jpg"
-  },
-  {
-    "id": 27,
-    "category_id": 1,
-    "name": "War Museum Cambodia",
-    "slug": "war-museum-cambodia",
-    "description": "War Museum Cambodia",
-    "meta_title": "War Museum Cambodia",
-    "meta_description": "War Museum Cambodia",
-    "meta_keywords": "War Museum Cambodia",
-    "status": 1,
-    "created_by": 1,
-    "created_at": "2023-08-09 14:16:38",
-    "updated_at": "2023-08-09 14:16:38",
-    "image": "https://cdn.discordapp.com/attachments/1134052885366312964/1138842047017652306/attraction-Siem-Reap-War-Musuem---Boom.jpg"
-  },
-  {
-    "id": 28,
-    "category_id": 1,
-    "name": "Theam's Gallery",
-    "slug": "theams-gallery",
-    "description": "Theam's Gallery",
-    "meta_title": "Theam's Gallery",
-    "meta_description": "Theam's Gallery",
-    "meta_keywords": "Theam's Gallery",
-    "status": 1,
-    "created_by": 1,
-    "created_at": "2023-08-09 14:19:16",
-    "updated_at": "2023-08-09 14:19:16",
-    "image": "https://cdn.discordapp.com/attachments/1134052885366312964/1138842047357399191/mural-fresco-theamsgallery.jpg"
-  },
-  {
-    "id": 29,
-    "category_id": 1,
-    "name": "ArtBox",
-    "slug": "artbox",
-    "description": "ArtBox",
-    "meta_title": "ArtBox",
-    "meta_description": "ArtBox",
-    "meta_keywords": "ArtBox",
-    "status": 1,
-    "created_by": 1,
-    "created_at": "2023-08-09 14:21:42",
-    "updated_at": "2023-08-09 14:21:42",
-    "image": "https://cdn.discordapp.com/attachments/1134052885366312964/1138842046438842409/100a1f000001grn8yFA36.jpg"
+    "addons": [
+                {
+                    "id": 1,
+                    "name": "Angkor Touch",
+                    "price": 8,
+                    "description": "Siem Reap is a cheerful city that embraces travelers like old friends. This region was."
+                },
+                {
+                    "id": 2,
+                    "name": "Angkor Tom",
+                    "price": 4,
+                    "description": "Siem Reap is a cheerful city that embraces travelers like old friends. This region was."
+                }
+            ]
   }
+
 ]
