@@ -1,107 +1,62 @@
 [
   {
     "id": 1,
-    "category_id": 2,
-    "name": "Arts and literature",
-    "slug": "arts-and-literature",
-    "description": "Arts and literature",
-    "meta_title": "Arts and literature",
-    "meta_description": "Arts and literature",
-    "meta_keywords": "Arts and literature",
-    "status": 1,
-    "created_by": 1,
-    "created_at": "2023-08-02 14:13:36",
-    "updated_at": "2023-08-02 14:13:36",
-    "image": "https://cdn.discordapp.com/attachments/1134052885366312964/1136306666716016860/1.jpg"
+    "name": "Example Place 1",
+    "imageUrl": "https://example.com/image1.jpg",
+    "placeCount": 20
   },
   {
     "id": 2,
-    "category_id": 2,
-    "name": "Religion",
-    "slug": "religion",
-    "description":"Cambodia is predominantly Buddhist with 80% of the population being Theravada Buddhist",
-    "meta_title": "Religion",
-    "meta_description": "Religion",
-    "meta_keywords": "Religion",
-    "status": 1,
-    "created_by": 1,
-    "created_at": "2023-08-02 14:17:51",
-    "updated_at": "2023-08-02 14:17:51",
-    "image": "https://cdn.discordapp.com/attachments/1134052885366312964/1136306666976055337/2.jpg"
+    "name": "Example Place 2",
+    "imageUrl": "https://example.com/image2.jpg",
+    "placeCount": 15
   },
   {
     "id": 3,
-    "category_id": 2,
-    "name": "Sports and Games",
-    "slug": "sports-and-games",
-    "description": "Sports and Games",
-    "meta_title": "Sports and Games",
-    "meta_description": "Sports and Games",
-    "meta_keywords": "Sports and Games",
-    "status": 1,
-    "created_by": 1,
-    "created_at": "2023-08-02 14:20:40",
-    "updated_at": "2023-08-02 14:24:32",
-    "image": "https://cdn.discordapp.com/attachments/1134052885366312964/1136306667223531530/3.jpg"
+    "name": "Example Place 3",
+    "imageUrl": "https://example.com/image3.jpg",
+    "placeCount": 10
   },
   {
     "id": 4,
-    "category_id": 2,
-    "name": "Clothing",
-    "slug": "clothing",
-    "description": "Clothing",
-    "meta_title": "Clothing",
-    "meta_description": "Clothing",
-    "meta_keywords": "Clothing",
-    "status": 1,
-    "created_by": 1,
-    "created_at": "2023-08-02 14:22:29",
-    "updated_at": "2023-08-02 14:23:28",
-    "image": "https://cdn.discordapp.com/attachments/1134052885366312964/1136306667533906001/4.jpg"
+    "name": "Example Place 4",
+    "imageUrl": "https://example.com/image4.jpg",
+    "placeCount": 25
   },
   {
     "id": 5,
-    "category_id": 2,
-    "name": "Cuisine",
-    "slug": "cuisine",
-    "description": "Cuisine",
-    "meta_title": "Cuisine",
-    "meta_description": "Cuisine",
-    "meta_keywords": "Cuisine",
-    "status": 1,
-    "created_by": 1,
-    "created_at": "2023-08-02 14:28:11",
-    "updated_at": "2023-08-02 14:28:11",
-    "image": "https://cdn.discordapp.com/attachments/1134052885366312964/1136306667756195960/5.jpeg"
+    "name": "Example Place 5",
+    "imageUrl": "https://example.com/image5.jpg",
+    "placeCount": 30
   },
   {
     "id": 6,
-    "category_id": 2,
-    "name": "Visual arts",
-    "slug": "visual-arts",
-    "description": "Visual arts",
-    "meta_title": "Visual arts",
-    "meta_description": "Visual arts",
-    "meta_keywords": "Visual arts",
-    "status": 1,
-    "created_by": 1,
-    "created_at": "2023-08-02 14:31:09",
-    "updated_at": "2023-08-02 14:31:57",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Fronton_Cambodge_Mus%C3%A9e_Guimet_9972.jpg/530px-Fronton_Cambodge_Mus%C3%A9e_Guimet_9972.jpg"
+    "name": "Example Place 6",
+    "imageUrl": "https://example.com/image6.jpg",
+    "placeCount": 18
   },
   {
     "id": 7,
-    "category_id": 2,
-    "name": "Dance",
-    "slug": "dance",
-    "description": "Dance",
-    "meta_title": "Dance",
-    "meta_description": "Dance",
-    "meta_keywords": "Dance",
-    "status": 1,
-    "created_by": 1,
-    "created_at": "2023-08-02 14:33:08",
-    "updated_at": "2023-08-02 14:33:08",
-    "image": "https://cdn.discordapp.com/attachments/1134052885366312964/1136306668225966170/6.jpg"
+    "name": "Example Place 7",
+    "imageUrl": "https://example.com/image7.jpg",
+    "placeCount": 22
+  },
+  {
+    "id": 8,
+    "name": "Example Place 8",
+    "imageUrl": "https://example.com/image8.jpg",
+    "placeCount": 12
+  },
+  {
+    "id": 9,
+    "name": "Example Place 9",
+    "imageUrl": "https://example.com/image9.jpg",
+    "placeCount": 28
+  },
+  {
+    "id": 10,
+    "name": "Example Place 10",
+    "imageUrl": "https://example.com/image10.jpg",
+    "placeCount": 17
   }
 ]
